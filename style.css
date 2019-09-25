@@ -1,0 +1,17 @@
+html {
+  background-image: url("./bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#App {
+  text-align: center;
+}
+
+#countdown {
+  margin-top: 20vh;
+  text-transform: uppercase;
+  font-family: Helvitica, sans-serif;
+  font-size: 2em;
+  color: white;
+}
